@@ -5,4 +5,12 @@
 - 👯 *I’m looking to collaborate on* ...**robotics related projects**
 - 📫 *How to reach me:*              ...[Linkedin](http://www.linkedin.com/in/sanjeev-kumar-749612120)
 
+<img src="https://img.shields.io/badge/-C++-00599C?logo=c++5&logoColor=fff">  <img src="https://img.shields.io/badge/-python-3776AB?logo=python5&logoColor=fff">  <img src="https://img.shields.io/badge/-pyTorch-EE4C2C?logo=pyTorch5&logoColor=fff">
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kumar-sanjeeev&count_private=true&show_icons=true&theme=radical
+)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kUMAR-SANJEEEV&show_icons=true&theme=radical
+)
 
