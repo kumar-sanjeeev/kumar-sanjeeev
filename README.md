@@ -6,4 +6,3 @@
 - 📫 *How to reach me:*              ...[Linkedin](http://www.linkedin.com/in/sanjeev-kumar-749612120)
 
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?kumar-sanjeeev" frameborder="0"></iframe>
