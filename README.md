@@ -8,6 +8,6 @@
 <img src="https://img.shields.io/badge/-C++-00599C?logo=c++5&logoColor=fff">  <img src="https://img.shields.io/badge/-python-3776AB?logo=python5&logoColor=fff">  <img src="https://img.shields.io/badge/-pyTorch-EE4C2C?logo=pyTorch5&logoColor=fff">
 
 
-
+![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumar-sanjeeev&show_icons=true)
 
 
