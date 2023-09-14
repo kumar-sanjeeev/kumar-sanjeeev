@@ -5,7 +5,7 @@
   
 -  **Interests : Robotic Manipultaion, Robot Perception and Computer Vision**.
 
-- **Experience : Robotic Simultaion, Nvidia Isaac-Sim**.
+- **Experience : Robotic Simultaion, Nvidia Isaac-Sim, ROS2**.
   
 - 📫 How to reach me - **sanjeev.kumar@rwth-aachen.de**
 
