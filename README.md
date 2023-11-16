@@ -1,7 +1,8 @@
 <h1 align="center"> Sanjeev Kumar </h1>
 <h3 align="center">A Robotic System master student at RWTH Aachen, Germany</h3>
 
-- **Robotic Manipulation Simulation Intern - Nvidia Isaac Sim @ BCAI-Renningen**.
+- **Current: Master Thesis Student in Computer Vision for Robotics Domain @ BCAI-Renningen**.
+- **Past: Robotic Manipulation Simulation Intern - Nvidia Isaac Sim @ BCAI-Renningen**.
   
 -  **Interests : Robotic Manipultaion, Robot Perception and Computer Vision**.
 
