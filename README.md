@@ -1,7 +1,8 @@
 <h1 align="center"> Sanjeev Kumar </h1>
 <h3 align="center">A Robotic System master student at RWTH Aachen, Germany</h3>
 
-- **Current: Master Thesis Student in Computer Vision for Robotics Domain @ BCAI-Renningen**.
+- **Current: Looking for opportunities in Robotics**.
+- **Past: Master Thesis Student in Computer Vision for Robotics Domain @ BCAI-Renningen**.
 - **Past: Robotic Manipulation Simulation Intern - Nvidia Isaac Sim @ BCAI-Renningen**.
   
 -  **Interests : Robotic Manipultaion, Robot Perception and Computer Vision**.
@@ -12,11 +13,6 @@
 
   <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MandeepSingh396&label=Profile%20views&color=0e75b6&style=flat" alt="MandeepSingh396" /> </p> -->
 
-<div>
-  <a href="[https://github.com/MandeepSingh396](https://github.com/kumar-sanjeeev)">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=kumar-sanjeeev&show_icons=true&&hide=stars,prs"/>
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-sanjeeev&layout=compact&langs_count=4"/>
-</div>
 
 <!-- ![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=kumar-sanjeeev&show_icons=true&&hide=stars,prs) -->
 <!-- ![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kumar-sanjeeev&layout=compact) -->
