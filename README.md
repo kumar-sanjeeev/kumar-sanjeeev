@@ -5,9 +5,9 @@
 - **Past: Master Thesis Student in Computer Vision for Robotics Domain @ BCAI-Renningen**.
 - **Past: Robotic Manipulation Simulation Intern - Nvidia Isaac Sim @ BCAI-Renningen**.
   
--  **Interests : Robotic Manipultaion, Robot Perception and Computer Vision**.
+-  **Interests : Robotic Manipultaion and Perception**.
 
-- **Experience : Robotic Simultaion, Nvidia Isaac-Sim, ROS2, Deep Learning: Keypoints Predication**.
+- **Experience : Robotic Simultaion, Nvidia Isaac-Sim, ROS2, Deep Learning: Keypoints Prediction**.
   
 - 📫 How to reach me - **sanjeev.kumar@rwth-aachen.de**
 
