@@ -4,11 +4,11 @@
   
 * [ Past ] Master Thesis Student in AIR4.1 group @[BCAI-Renningen](https://www.bosch-ai.com/).
   
-* [ Past ] Robotic Manipulation Simulation Intern - Nvidia Isaac Sim @[BCAI-Renningen](https://www.bosch-ai.com/).
+* [ Past ] Robotic Simulation Intern - Isaac Sim @[BCAI-Renningen](https://www.bosch-ai.com/).
   
-* [ Interests ] Robotic Manipultaion and Perception.
+* [ Interests ] Robotic Manipulation and Perception.
 
-* [ Experience ] : Robotic Simultaion, Isaac-Sim, ROS2, Deep Learning: Keypoints Prediction.
+* [ Experience ] : Robotics System Simultaion, Isaac-Sim, ROS2, Deep Learning: Keypoints Prediction.
   
 * 📫 How to reach me - **sanjeev.kumar@rwth-aachen.de**
 
