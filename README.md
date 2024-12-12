@@ -8,7 +8,7 @@
   
 * [ Interests ] Robotic Manipulation and Perception.
 
-* [ Experience ] : Robotics System Simultaion, Isaac-Sim, ROS2, Deep Learning: Keypoints Prediction.
+* [ Experience ] Robotics System Simultaion, Isaac-Sim, ROS2, Deep Learning: Keypoints Prediction.
   
 * 📫 How to reach me - **sanjeev.kumar@rwth-aachen.de**
 
